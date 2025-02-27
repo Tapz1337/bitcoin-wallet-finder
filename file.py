@@ -5,7 +5,7 @@ from random import randint
 
 continuing = True
 
-btcval = 82.393 # Update die Nummer wenn der Kurs hoch oder runter geht. 
+btcval = 82393 # Update die Nummer wenn der Kurs hoch oder runter geht. 
 
 while True:
   if continuing == True:
